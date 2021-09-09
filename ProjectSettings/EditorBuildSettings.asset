@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UI.unity
+    guid: 5ec46a7d835b1af4fbbea2801e8da665
+  - enabled: 1
+    path: Assets/Scenes/RollingBall.unity
+    guid: 73f93649dac735641b69d19acdf3d673
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/SpawningObjects.unity
+    guid: edc99d9370708f946acd52a382a8498c
+  - enabled: 1
+    path: Assets/Scenes/PredinedPath.unity
+    guid: 5013273289800c6479156a174aa54340
+  - enabled: 1
+    path: Assets/Scenes/PredinedPath2.unity
+    guid: 32b50af1fe3f40e45b48719ecde7f31c
+  - enabled: 1
+    path: Assets/Scenes/PredinedPathNavmesh 1.unity
+    guid: bedd9f5e75d5aa7448360f5f639da62b
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: ea992f80e515b7b42b414e3abc2bf9b7, type: 2}
